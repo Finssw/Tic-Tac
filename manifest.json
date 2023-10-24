@@ -1,7 +1,7 @@
 {
     "name": "Tic-Tac Toe",
     "short_name": "Tic-Tac",
-    "start_url": "https://tic-tac-b2w6.vercel.app/",
+    "start_url": "https://tic-tac.vercel.app/",
     "display": "standalone",
     "background_color": "#203c58",
     "description": "Tic-Tac Toe app.",
